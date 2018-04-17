@@ -8,3 +8,6 @@
 //When we download node modules, we don't want to commit all of them up to github
     //use .gitignore to place the modules you don't want 
     //DO NOT IGNORE THE GIT IGNORE (push that to github)
+
+//When we clone a repository from github with modules, once we are in the folder we can type
+    //npm install to go get the necessary modules for the project
