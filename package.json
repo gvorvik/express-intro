@@ -1,0 +1,14 @@
+{
+  "name": "intro-to-express",
+  "version": "1.0.0",
+  "description": "express lecture for kochab",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Greg Orvik",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
